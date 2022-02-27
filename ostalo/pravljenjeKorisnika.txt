@@ -1,2 +1,3 @@
 CREATE USER 'is1'@'localhost' IDENTIFIED BY 'sifra';
 GRANT ALL PRIVILEGES ON * . * TO 'is1'@'localhost';
+jana
