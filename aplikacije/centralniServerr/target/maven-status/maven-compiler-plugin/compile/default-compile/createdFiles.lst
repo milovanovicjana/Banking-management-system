@@ -1,0 +1,8 @@
+com\mycompany\centralniserverr\resources\EndPointMesto.class
+com\mycompany\centralniserverr\resources\JavaEE8Resource.class
+com\mycompany\centralniserverr\JAXRSConfiguration.class
+com\mycompany\centralniserverr\resources\EndPointRacun.class
+com\mycompany\centralniserverr\resources\EndPointFiliijala.class
+com\mycompany\centralniserverr\resources\EndPointRezervnaKopiija.class
+com\mycompany\centralniserverr\resources\EndPointTransakcija.class
+com\mycompany\centralniserverr\resources\EndPointKomitent.class
